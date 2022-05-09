@@ -1,0 +1,3 @@
+R5T.F0008.Construction - Construction project for Generation of common Roslyn syntax values..
+
+GOALS:
